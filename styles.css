@@ -133,14 +133,8 @@ i.fa-instagram, i.fa-whatsapp, i.fa-tiktok{
     }
 
     .navbar-brand{
-        font-size: 1rem;
+        font-size: 1.2rem;
         letter-spacing: 1px;
-    }
-
-    .main-name{
-        padding-top: 20vh;
-        font-size: 76px;
-        line-height: 1.5;
     }
 
     #title{
@@ -148,8 +142,9 @@ i.fa-instagram, i.fa-whatsapp, i.fa-tiktok{
     }
 
     .main-name{
-        padding-top: 50%;
-        font-size: 2.5rem;
+        padding-top: 20vh;
+        font-size: 4rem;
+        line-height: 1.5;
     }
     
     .intro-title, .intro-skills-title-1,.intro-skills-title-2{
