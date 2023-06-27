@@ -33,9 +33,10 @@ p{
 
 
 .my_nav{
+    
     background-color: #d4b895;
     border-radius: 30px;
-    margin: 1% 10%;
+    margin: 2% 10%;
     padding: 5px 5%;
     opacity: 100%;
 }
@@ -144,6 +145,10 @@ i.fa-instagram, i.fa-whatsapp, i.fa-tiktok{
         padding-top: 10%;
     }
 
+    .my_nav{
+        margin-top: 5%;
+    }
+
     .nav-link{
         font-size: 0.8rem;
         display: flex;
@@ -152,7 +157,7 @@ i.fa-instagram, i.fa-whatsapp, i.fa-tiktok{
     }
 
     .main-name{
-        padding-top: 20vh;
+        padding-top: 25vh;
         font-size: 3.2rem;
         line-height: 1.5;
     }
