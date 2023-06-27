@@ -1,0 +1,146 @@
+p{
+    font-family: 'Hinge Font Familt', sans-serif;                                            
+    color:black;
+    font-size: 1.2rem;
+}
+
+#title {
+    background-color: #d4b895;
+    height: 100vh;
+    border-radius: 30px;
+    padding-top: 10%;
+}
+
+.nav-link, .navbar-brand{
+    font-family: 'Hinge Font Familt', sans-serif;                                            
+    font-size: 1.2rem;
+    letter-spacing: 2px;
+    font-weight: 900;
+    color: white;
+}
+
+.navbar-brand{
+    font-size: 2rem;
+}
+
+.navbar-brand:hover, .nav-link:hover{
+    color: #f0dfcc;
+}
+
+.nav-item{
+    padding-left: 20px;
+}
+
+
+.my_nav{
+    background-color: #d4b895;
+    border-radius: 30px;
+    margin: 1% 10%;
+    padding: 5px 5%;
+    opacity: 100%;
+}
+
+/* font */
+.main-name,
+ h1.bio{
+    font-family: 'Glacial Indifference', sans-serif;                                     
+    letter-spacing: 5px;
+    color:white;
+    text-align: center;
+}
+
+h3.intro-skills-title-1,
+ h3.intro-skills-title-2{
+    font-family: 'Glacial Indifference', sans-serif;                                           
+    color: #d4b895;
+    text-align: center;
+}
+
+
+.main-name{
+    padding-top: 11vh;
+    font-size: 6rem;
+    line-height: 1;
+}
+
+
+
+.intro-title{
+    background-color: #d4b895;
+    border-radius: 30px;
+    width: 60%;
+    margin: auto auto 5%;
+}
+
+
+
+.intro-skills{
+    padding-bottom: 3%;
+}
+
+.icon{
+    padding: 20px 20px 25px 0px;
+
+}
+
+.icon-2{
+    padding-left: 20px;
+}
+.intro-skills-title-1{
+    text-align: left !important;
+}
+
+.intro-skills-title-2{
+    text-align: right !important;
+}
+
+
+/* contact */
+#contact{
+    margin: 5% 20% 5%;
+}
+.on-contact{
+    padding-top: 2%;
+    padding-bottom: 5px;
+}
+
+a.contact-a{
+    font-family: 'Glacial Indifference', sans-serif;
+    color: #d4b895;
+    font-size: 1.3rem;
+}
+
+a.contact-a:hover{
+    color:black;
+}
+
+
+
+
+i.fa-instagram, i.fa-whatsapp, i.fa-tiktok{
+    padding-top: 20px;
+    padding-left: 60px;
+    padding-right: 10px;
+}
+
+@media screen and (max-width: 768px){
+    #title, #about, #projects, #contact{
+        width: 100%;
+        margin: 0 auto 0;
+        padding-left: 20px;
+        padding-right: 20px;
+
+    }
+    #title{
+        padding-bottom: 60%;
+    }
+    .main-name{
+        padding-top: 50%;
+        font-size: 2.5rem;
+    }
+    
+    .intro-title, .intro-skills-title-1,.intro-skills-title-2{
+        width: 100%;
+    }
+
+}
