@@ -141,9 +141,13 @@ i.fa-instagram, i.fa-whatsapp, i.fa-tiktok{
         padding-bottom: 60%;
     }
 
+    .nav-link{
+        display: flex;
+        justify-content: end;
+    }
     .main-name{
         padding-top: 20vh;
-        font-size: 4rem;
+        font-size: 3.2rem;
         line-height: 1.5;
     }
     
