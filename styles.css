@@ -115,7 +115,7 @@ a.contact-a:hover{
 }
 
 .logo-vema{
-    padding-right: 7px;
+    margin-right: 5%;
 }
 
 
@@ -136,7 +136,7 @@ i.fa-instagram, i.fa-whatsapp, i.fa-tiktok{
     }
 
     .navbar-brand{
-        font-size: 1.2rem;
+        /* font-size: 1.2rem; */
         letter-spacing: 1px;
     }
 
@@ -144,6 +144,9 @@ i.fa-instagram, i.fa-whatsapp, i.fa-tiktok{
         padding-bottom: 60%;
     }
 
+    #contact{
+        padding-top: 10%;
+    }
     .nav-link{
         font-size: 0.8rem;
         display: flex;
