@@ -97,7 +97,7 @@ h3.intro-skills-title-1,
 
 /* contact */
 #contact{
-    margin: 5% 20% 5%;
+    margin: 12% 20% 5%;
 }
 .on-contact{
     padding-top: 2%;
@@ -111,7 +111,7 @@ a.contact-a{
 }
 
 a.contact-a:hover{
-    color:black;
+    color:#f0dfcc;
 }
 
 
