@@ -124,16 +124,29 @@ i.fa-instagram, i.fa-whatsapp, i.fa-tiktok{
 }
 
 @media screen and (max-width: 768px){
-    #title, #about, #projects, #contact{
+    #title, #contact{
         width: 100%;
         margin: 0 auto 0;
         padding-left: 20px;
         padding-right: 20px;
 
     }
+
+    .navbar-brand{
+        font-size: 1rem;
+        letter-spacing: 1px;
+    }
+
+    .main-name{
+        padding-top: 20vh;
+        font-size: 76px;
+        line-height: 1.5;
+    }
+
     #title{
         padding-bottom: 60%;
     }
+
     .main-name{
         padding-top: 50%;
         font-size: 2.5rem;
